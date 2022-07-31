@@ -1,10 +1,8 @@
 Alumni Record  iOS Applications
 Developing a multi-view iOS alumni database application with Swift and Xcode that allows users to search, add and edit alumni records in the database. 
 Implemented RESTful API endpoints to allow CRUD requests sent from the front-end, with data in JSON.
-<img width="367" alt="截屏2022-07-30 下午11 52 51" src="https://user-images.githubusercontent.com/96745697/182013937-1b81c6bd-50cf-4f66-ad35-4dcfdce8822f.png">
-![4841659250349_ pic](https://user-images.githubusercontent.com/96745697/182013946-92479438-4b70-4426-ae3c-ef1ed91696f6.jpg)
-![4821659250247_ pic_hd](https://user-images.githubusercontent.com/96745697/182013949-41679650-a4ec-4160-aaf4-b9cdb3d7f90e.jpg)
-![4831659250247_ pic_hd](https://user-images.githubusercontent.com/96745697/182013951-3772e6ae-599a-452c-be35-6356f397c3ba.jpg)
+
+<img width="367" alt="截屏2022-07-30 下午11 52 51" src="https://user-images.githubusercontent.com/96745697/182013937-1b81c6bd-50cf-4f66-ad35-4dcfdce8822f.png">![4841659250349_ pic](https://user-images.githubusercontent.com/96745697/182013946-92479438-4b70-4426-ae3c-ef1ed91696f6.jpg)![4821659250247_ pic_hd](https://user-images.githubusercontent.com/96745697/182013949-41679650-a4ec-4160-aaf4-b9cdb3d7f90e.jpg)![4831659250247_ pic_hd](https://user-images.githubusercontent.com/96745697/182013951-3772e6ae-599a-452c-be35-6356f397c3ba.jpg)
 
 
 #   ECE564_HW 
