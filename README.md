@@ -1,3 +1,6 @@
+<img width="367" alt="截屏2022-07-30 下午11 29 36" src="https://user-images.githubusercontent.com/96745697/182013256-9148aae5-26a0-4c6b-aa05-06e4bb7e61a9.png">
+
+xq47
 #   ECE564_HW 
 This is the project you will use for all of your ECE564 homework assignments. You need to download to your computer, add your code, and then add a repo under your own ID with this name ("ECE564_HW"). It is important that you use the same project name.  
 This should work fine for HW1 - HW4.  If you decide to use SwiftUI for your user interface, you can recreate with a new project (keep the name) or follow something like this - https://stackoverflow.com/questions/56529488/is-there-any-way-to-use-storyboard-and-swiftui-in-same-ios-xcode-project
