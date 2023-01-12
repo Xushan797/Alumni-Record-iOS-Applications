@@ -1,17 +1,19 @@
-Alumni Record  iOS Applications
+#   Alumni Record  iOS Applications
+
 Developing a multi-view iOS alumni database application with Swift and Xcode that allows users to search, add and edit alumni records in the database. 
 Implemented RESTful API endpoints to allow CRUD requests sent from the front-end, with data in JSON.
 
-<img width="200" src="https://user-images.githubusercontent.com/96745697/182013937-1b81c6bd-50cf-4f66-ad35-4dcfdce8822f.png">!
-<img width="200" src="https://user-images.githubusercontent.com/96745697/182013946-92479438-4b70-4426-ae3c-ef1ed91696f6.jpg">!
-<img width="200" src="https://user-images.githubusercontent.com/96745697/182013949-41679650-a4ec-4160-aaf4-b9cdb3d7f90e.jpg">!
-<img width="200" src="https://user-images.githubusercontent.com/96745697/182013951-3772e6ae-599a-452c-be35-6356f397c3ba.jpg">!
 
 #   ECE564_HW 
 This is the project you will use for all of your ECE564 homework assignments. You need to download to your computer, add your code, and then add a repo under your own ID with this name ("ECE564_HW"). It is important that you use the same project name.  
 This should work fine for HW1 - HW4.  If you decide to use SwiftUI for your user interface, you can recreate with a new project (keep the name) or follow something like this - https://stackoverflow.com/questions/56529488/is-there-any-way-to-use-storyboard-and-swiftui-in-same-ios-xcode-project
 
 Any notes, additional functions, comments you want to share with the TA and I before grading please put in this file in the correspondiing section below.  Part of the grading is anything you did above and beyond the requirements, so make sure that is included here in the README.
+
+<img width="200" src="https://user-images.githubusercontent.com/96745697/182013937-1b81c6bd-50cf-4f66-ad35-4dcfdce8822f.png">!
+<img width="200" src="https://user-images.githubusercontent.com/96745697/182013946-92479438-4b70-4426-ae3c-ef1ed91696f6.jpg">!
+<img width="200" src="https://user-images.githubusercontent.com/96745697/182013949-41679650-a4ec-4160-aaf4-b9cdb3d7f90e.jpg">!
+<img width="200" src="https://user-images.githubusercontent.com/96745697/182013951-3772e6ae-599a-452c-be35-6356f397c3ba.jpg">!
 
 ## HW1
 This is a UI view that allows you to search, add and edit members in thedatabase. You can also use the clear button to clear all the input information. You can enter personal information including firstname, lastname, wherefrom, hobbies, languages, level and role in Duke. After add, found or updated the information, the description of the person would be displayed. I would like the color of display to be black and white, so I choose to use black, white and gray. 
