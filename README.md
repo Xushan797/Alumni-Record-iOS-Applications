@@ -22,18 +22,18 @@ This is a UI view that allows you to search, add and edit members in thedatabase
 The view will contain full information about the DukePerson, including their netID, firstname, lastname, gender, role, hometown, degree, email address, hobbies and languages. I add an ImageView rectangle, the imageview show an avatar for other people. But for myself and my roommate, whose netID is xq47 and bw224, I put our photos there. Besides, I set the requirement, one person can only enter hobbies and languages less or equal than 3. Moreover, I add clear button not only for all textview, but for each textview they also have their own clear button. 
 
 ## HW3
-The main purpose of this homework is to persist student information to storage so the list of people information goes from session to session.
-Feature 1: Use JSONEncoder to persists DukePerson. What's special: I override the encoder and decoder function to support Codable inheritance, avoiding building a class and copy the information from Dukeperson to be saved.
-Feature 2: Picture support. I have pictures for all people I list in the netIdbase markdown document. The picture is stored in the DukePerson class as a String of base 64 String. I also use the Image.copy function to make the picture small.
-Feature 3: "Choose Photo" support. The UIImageView is a button, and when pressed, it allows the user to "Choose a photo" from their Photos. 
-Feature 5: My dukuperson data model is ready to support the entire ECE JSON Grammar as shown. The "Department" and "ID" will never be displayed.
+The main purpose of this homework is to persist student information to storage so the list of people information goes from session to session.  
+Feature 1: Use JSONEncoder to persists DukePerson. What's special: I override the encoder and decoder function to support Codable inheritance, avoiding building a class and copy the information from Dukeperson to be saved.  
+Feature 2: Picture support. I have pictures for all people I list in the netIdbase markdown document. The picture is stored in the DukePerson class as a String of base 64 String. I also use the Image.copy function to make the picture small.  
+Feature 3: "Choose Photo" support. The UIImageView is a button, and when pressed, it allows the user to "Choose a photo" from their Photos.   
+Feature 5: My dukuperson data model is ready to support the entire ECE JSON Grammar as shown. The "Department" and "ID" will never be displayed.  
 
 Extra:   
-1.You can search people both by their netID or firstname and lastname.
-2.The Clear button allows user to clear all the input information. Besides, for each textinput, it has its own small clear button.
-3. Database includes 5 people, as well as their photos.
-4. There is a switch on the right side of the "ECE 564 Information" title, which can change the background color.
-5. The description is always bouncevertical, which means it can always show all the description.
+1.You can search people both by their netID or firstname and lastname.  
+2.The Clear button allows user to clear all the input information. Besides, for each textinput, it has its own small clear button.  
+3. Database includes 5 people, as well as their photos.  
+4. There is a switch on the right side of the "ECE 564 Information" title, which can change the background color.  
+5. The description is always bouncevertical, which means it can always show all the description.  
 
 ## HW4
 The main purpose of this homework is to connect to the server, upload and download the information from the server. we will mainly focus on using TCP/IP and HTTP, and use JSON to pass information to a web server.
