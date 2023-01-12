@@ -2,10 +2,10 @@ Alumni Record  iOS Applications
 Developing a multi-view iOS alumni database application with Swift and Xcode that allows users to search, add and edit alumni records in the database. 
 Implemented RESTful API endpoints to allow CRUD requests sent from the front-end, with data in JSON.
 
-<img width="300" src="https://user-images.githubusercontent.com/96745697/182013937-1b81c6bd-50cf-4f66-ad35-4dcfdce8822f.png">!
-<img width="300" src="https://user-images.githubusercontent.com/96745697/182013946-92479438-4b70-4426-ae3c-ef1ed91696f6.jpg">!
-<img width="300" src="https://user-images.githubusercontent.com/96745697/182013949-41679650-a4ec-4160-aaf4-b9cdb3d7f90e.jpg">!
-<img width="300" src="https://user-images.githubusercontent.com/96745697/182013951-3772e6ae-599a-452c-be35-6356f397c3ba.jpg">!
+<img width="200" src="https://user-images.githubusercontent.com/96745697/182013937-1b81c6bd-50cf-4f66-ad35-4dcfdce8822f.png">!
+<img width="200" src="https://user-images.githubusercontent.com/96745697/182013946-92479438-4b70-4426-ae3c-ef1ed91696f6.jpg">!
+<img width="200" src="https://user-images.githubusercontent.com/96745697/182013949-41679650-a4ec-4160-aaf4-b9cdb3d7f90e.jpg">!
+<img width="200" src="https://user-images.githubusercontent.com/96745697/182013951-3772e6ae-599a-452c-be35-6356f397c3ba.jpg">!
 
 #   ECE564_HW 
 This is the project you will use for all of your ECE564 homework assignments. You need to download to your computer, add your code, and then add a repo under your own ID with this name ("ECE564_HW"). It is important that you use the same project name.  
